@@ -1,0 +1,53 @@
+#topbar{
+	width:100%;
+	background:rgba(0,0,200,0.5);
+	color:white;
+	text-align:center;
+	border-bottom:4px solid blue;
+	padding:3px;
+	margin:0;
+	
+	
+	
+}
+
+
+#topmenu{
+	
+	width:100%;
+	background:rgba(90,90,90,0.8);
+	color:white;
+	border-bottom:4px solid blue;
+	padding:3px;
+	margin:0;
+
+	
+	
+}
+
+
+
+#sidebar{
+	width:20%;
+	height:500px;
+	float:left;
+	background:rgba(0,0,200,0.5);
+	color:white;
+	border-right:4px solid blue;
+	padding:3px;
+}
+
+
+
+#container{
+	width:78.6%;
+	float:right;
+	background:lightgrey;
+	color:white;
+	padding:3px;
+	margin:0;
+	
+	text-align:center;
+	
+	
+}

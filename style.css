@@ -1,0 +1,23 @@
+.search input[type=search]{
+	
+	border:none !important;
+	outline:none !important;
+	
+	
+}
+body{
+	
+	background:#F0F0F0;
+	
+}
+
+
+.navbar-toggler .fa{
+	color:white;
+	
+}
+
+.navbar-toggler{
+	
+	outline:none !important;
+}
